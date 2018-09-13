@@ -22,11 +22,16 @@ def text_analysis():
             unique_el[el] = unique_el.get(el) + 1
 
         sum_of_el = sum([x[1] for x in unique_el.items()])
-        max_el = max(unique_el.items(), key=operator.itemgetter(1))
-        rel_val = max_el[1] / sum_of_el
 
-        return [max_el[0], max_el[1], rel_val]
+        for key, value in unique_el.items():
+            unique_el[key] = f'{round(unique_el.get(key)/sum_of_el*100, 2)}%'
+        return unique_el
+
+
+def update_output_log(di):
+    with open('test_logs/output_log.txt', 'a') as log_file:
+        log_file.write('\n'.join((f'{key} --> {value} |' for key, value in di.items()))+'\n')
 
 
 # filling_random_sym()
-print(text_analysis())
+update_output_log(text_analysis())

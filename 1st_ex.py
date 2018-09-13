@@ -1,0 +1,20 @@
+import sys
+import math
+
+
+def ex1():
+    n = 2
+    res = 1
+    temp = 1
+    flag = True
+    while flag:
+        res *= 1-(2/(n*(n+1)))
+        print(math.fabs(res-temp))
+        if math.fabs(res-temp) < sys.float_info.epsilon:
+            flag = False
+        n += 1
+        temp = res
+    return res
+
+
+print(ex1())

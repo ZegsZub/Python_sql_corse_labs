@@ -64,8 +64,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/1st_ex.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="19" selection-end-column="12" />
+            <state relative-caret-position="145">
+              <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
                 <marker date="1536834985156" expanded="true" signature="86:91" ph="..." />
@@ -298,6 +298,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="134" y="35" width="3066" height="1765" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25319007" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -381,8 +382,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1st_ex.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="19" selection-end-column="12" />
+        <state relative-caret-position="145">
+          <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
             <marker date="1536834985156" expanded="true" signature="86:91" ph="..." />

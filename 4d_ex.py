@@ -1,3 +1,6 @@
+# lab №1 ex. 4 | Var 9 Sergey Zubrilin 9/13/18
+
+
 from random import choice
 from string import ascii_letters
 import operator

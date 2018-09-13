@@ -1,3 +1,5 @@
+# lab №1 ex. 3 | Var 9 Sergey Zubrilin 9/13/18
+
 from random import randint
 
 

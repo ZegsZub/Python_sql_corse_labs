@@ -1,3 +1,5 @@
+# lab №1 ex. 1 | Var 9 Sergey Zubrilin 9/13/18
+
 import sys
 import math
 

@@ -1,3 +1,5 @@
+# lab №1 ex. 2 | Var 9 Sergey Zubrilin 9/13/18
+
 def is_prime(digit):
     if digit is None:
         print('Error -- wrong format data')

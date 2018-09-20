@@ -8,7 +8,6 @@ def is_prime(number):
     for i in range(number):
         if number % (i+1) == 0:
             count += 1
-            print(count)
         if count > 2:
             return False
 

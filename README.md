@@ -7,9 +7,9 @@
 Точность считается достигнутой, если на некотором шаге выполнено неравенство **,
 где **  - частичное произведение. В этом случае полагают результат равным **.
 ````
-**Код решения: [GitHub page](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/1st_ex.py)**
+**Код решения: [GitHub page](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/ex1.py)**
 
-**Код тестировки: [GitHub page](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/1st_ex.py)**
+**Код тестировки: [GitHub page](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/ex2_test.py)**
 >Задание № 2:
 ````
 Запишите численность населения города Одессы в текущем году. 
@@ -17,27 +17,27 @@
 «Зачеркните» все цифры, следующие за найденной. 
 Верно ли, что оставшееся число – простое?
 ````
-**Код решения: [GitHub page](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/2d_ex.py)** 
+**Код решения: [GitHub page](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/ex2.py)** 
 
-**Код тестировки: [GitHub page](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/1st_ex.py)**
+**Код тестировки: [GitHub page](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/ex2_test.py)**
 >Задание № 3:
 ````
 Дана целочисленная матрица размером .
 Определить строку, в которой содержится максимально длинная цепочка чисел, идущих в порядке возрастания.
 Вывести номер строки и длину цепочки.
 ````
-**Код решения: [GitHub page](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/3d_ex.py)**
+**Код решения: [GitHub page](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/ex3.py)**
 
-**Код тестировки: [GitHub page](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/1st_ex.py)**
+**Код тестировки: [GitHub page](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/ex3_test.py)**
 >Задание № 4:
 ````
 Дан файл input.txt, содержащий некоторый текст.
 Провести частотный анализ данного текста: указать (в процентах), насколько часто в нём встречается тот или иной символ.
 Результат записать в файл output.txt.
 ````
-**Код решения: [GitHub page](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/4d_ex.py)**
+**Код решения: [GitHub page](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/ex4.py)**
 
-**Код тестировки: [GitHub page](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/1st_ex.py)**
+**Код тестировки: [GitHub page](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/ex4_test.py)**
 >Задание № 5:
 ````
 Создать класс для представления длинных чисел с плавающей точкой.
@@ -55,7 +55,7 @@
         a. сложения + __add__
         b. вычитания - __sub__
 ````
-**Код решения: [GitHub page]()**
+**Код решения: [GitHub page](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/ex5.py)**
 
-**Код тестировки: [GitHub page]()**
+**Код тестировки: [GitHub page](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/ex5_test.py)**
 

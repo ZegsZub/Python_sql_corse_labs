@@ -10,6 +10,7 @@
 **Код решения: [GitHub page](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/ex1.py)**
 
 **Код тестировки: [GitHub page](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/ex2_test.py)**
+###
 >Задание № 2:
 ````
 Запишите численность населения города Одессы в текущем году. 
@@ -20,6 +21,7 @@
 **Код решения: [GitHub page](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/ex2.py)** 
 
 **Код тестировки: [GitHub page](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/ex2_test.py)**
+###
 >Задание № 3:
 ````
 Дана целочисленная матрица размером .
@@ -29,6 +31,7 @@
 **Код решения: [GitHub page](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/ex3.py)**
 
 **Код тестировки: [GitHub page](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/ex3_test.py)**
+###
 >Задание № 4:
 ````
 Дан файл input.txt, содержащий некоторый текст.
@@ -38,6 +41,7 @@
 **Код решения: [GitHub page](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/ex4.py)**
 
 **Код тестировки: [GitHub page](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/ex4_test.py)**
+###
 >Задание № 5:
 ````
 Создать класс для представления длинных чисел с плавающей точкой.

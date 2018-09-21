@@ -3,7 +3,8 @@
 from random import randint
 
 
-def random_matrix(n=15):
+def random_matrix(n=10):
+    """генерация случайной матрицы"""
     matrix = [[randint(1, 10) for j in range(n)] for i in range(n)]
     return matrix
 

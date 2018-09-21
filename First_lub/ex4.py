@@ -3,7 +3,6 @@
 
 from random import choice
 from string import ascii_letters
-import operator
 
 
 def filling_random_sym():
@@ -13,13 +12,15 @@ def filling_random_sym():
             log_file.write('\n')
 
 
-def text_analysis():
-    with open('test_logs/log.txt', 'r') as log_file:
-        all_el = ''.join([x[:-1] for x in log_file.readlines()])
+def text_analysis(file='test_logs/log.txt'):
+    with open(file, 'r') as log_file:
+        all_el = ''.join((x for x in log_file.readlines())).replace('\n', '')
+
         unique_el = {el: 0 for el in all_el}
 
         for el in all_el:
-            unique_el[el] = unique_el.get(el) + 1
+            if el != '\n':
+                unique_el[el] = unique_el.get(el) + 1
 
         sum_of_el = sum([x[1] for x in unique_el.items()])
 
@@ -28,9 +29,9 @@ def text_analysis():
         return unique_el
 
 
-def update_output_log(di):
-    with open('test_logs/output_log.txt', 'a') as log_file:
-        log_file.write('\n'.join((f'{key} --> {value} |' for key, value in di.items()))+'\n')
+def update_output_log(dic, file='test_logs/output_log.txt'):
+    with open(file, 'a') as log_file:
+        log_file.write('\n'.join((f'{key} --> {value} |' for key, value in dic.items()))+'\n')
 
 
 # filling_random_sym()

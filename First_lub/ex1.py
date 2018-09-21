@@ -4,7 +4,7 @@
 import math
 
 
-def ex1(eps=0.001):
+def ex1(eps=0.0001):
     n = 2
     res = 1
     temp = 1

@@ -1,7 +1,7 @@
 # lab №1 ex. 5(test) | Var 9 Sergey Zubrilin 9/24/18
 
 
-from ex5 import MyFloat
+from lab_1.ex5 import MyFloat
 import unittest
 
 

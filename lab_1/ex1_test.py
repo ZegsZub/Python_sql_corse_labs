@@ -1,7 +1,7 @@
 # lab №1 ex. 1(test) | Var 9 Sergey Zubrilin 9/21/18
 
 
-from ex1 import ex1
+from lab_1.ex1 import ex1
 import unittest
 
 

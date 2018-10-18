@@ -1,7 +1,7 @@
 # lab №1 ex. 5 | Var 9 (b) Sergey Zubrilin 9/20/18
 
 
-from tools import sign_init
+from lab_1.tools import sign_init
 
 
 class MyFloat:

@@ -1,48 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42a58600-92da-4716-8729-8f7405c9e3da" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="42a58600-92da-4716-8729-8f7405c9e3da" name="Default Changelist" comment="Default Changelist">
+      <change afterPath="$PROJECT_DIR$/lab_2/ex1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/m_Labs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/m_Labs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lab_1/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab_1/ex1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex1_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab_1/ex1_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab_1/ex2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex2_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab_1/ex2_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex3.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab_1/ex3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex3_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab_1/ex3_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex4.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab_1/ex4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex4_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab_1/ex4_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex5.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab_1/ex5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex5_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab_1/ex5_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_logs/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lab_1/test_logs/log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_logs/log_for_test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lab_1/test_logs/log_for_test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_logs/output_log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lab_1/test_logs/output_log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_logs/output_log_test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lab_1/test_logs/output_log_test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab_1/tools.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР1 Python.doc" beforeDir="false" afterPath="$PROJECT_DIR$/lab_1/ЛР1 Python.doc" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/m_Labs$Unittests_in_ex1_test_py.coverage" NAME="Unittests in ex1_test.py Coverage Results" MODIFIED="1537535672955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_lub" />
-    <SUITE FILE_PATH="coverage/m_Labs$1st_ex__1_.coverage" NAME="1st_ex (1) Coverage Results" MODIFIED="1536859443746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/m_Labs$4d_ex.coverage" NAME="4d_ex Coverage Results" MODIFIED="1536856299626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/m_Labs$ex3.coverage" NAME="ex3 Coverage Results" MODIFIED="1537554278446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_lub" />
-    <SUITE FILE_PATH="coverage/m_Labs$Unittests_for_ex4_test_TestEx4.coverage" NAME="Unittests for ex4_test.TestEx4 Coverage Results" MODIFIED="1537558241095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_lub" />
-    <SUITE FILE_PATH="coverage/m_Labs$Unittests_for_ex2_test_TestEx1.coverage" NAME="Unittests for ex2_test.TestEx1 Coverage Results" MODIFIED="1537536303042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_lub" />
-    <SUITE FILE_PATH="coverage/m_Labs$Unittests_in_ex3_test_py.coverage" NAME="Unittests in ex3_test.py Coverage Results" MODIFIED="1537554482496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_lub" />
-    <SUITE FILE_PATH="coverage/m_Labs$Unittests_for_ex4_test_TestEx4_test_update_output_log.coverage" NAME="Unittests for ex4_test.TestEx4.test_update_output_log Coverage Results" MODIFIED="1537558319446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_lub" />
-    <SUITE FILE_PATH="coverage/m_Labs$5_ex.coverage" NAME="5_ex Coverage Results" MODIFIED="1537531126496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/m_Labs$Unittests_for_ex4_test_TestEx4_test_text_analysis.coverage" NAME="Unittests for ex4_test.TestEx4.test_text_analysis Coverage Results" MODIFIED="1537558256891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_lub" />
-    <SUITE FILE_PATH="coverage/m_Labs$Unittests_for_ex2_test_TestEx1_test_is_prime.coverage" NAME="Unittests for ex2_test.TestEx1.test_is_prime Coverage Results" MODIFIED="1537553014130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_lub" />
-    <SUITE FILE_PATH="coverage/m_Labs$ex2.coverage" NAME="ex2 Coverage Results" MODIFIED="1537537086553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_lub" />
     <SUITE FILE_PATH="coverage/m_Labs$Unittests_for_ex1_test_TestEx1_test_eps2.coverage" NAME="Unittests for ex1_test.TestEx1.test_eps2 Coverage Results" MODIFIED="1537535632682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_lub" />
+    <SUITE FILE_PATH="coverage/m_Labs$Unittests_for_ex4_test_TestEx4.coverage" NAME="Unittests for ex4_test.TestEx4 Coverage Results" MODIFIED="1537558241095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_lub" />
+    <SUITE FILE_PATH="coverage/m_Labs$4d_ex.coverage" NAME="4d_ex Coverage Results" MODIFIED="1536856299626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/m_Labs$3.coverage" NAME="3 Coverage Results" MODIFIED="1538824153828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/m_Labs$2ex.coverage" NAME="2ex Coverage Results" MODIFIED="1537726186574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/George_Martyniuk_5var" />
+    <SUITE FILE_PATH="coverage/m_Labs$Unittests_for_ex3_test_TestEx3_test_random_matrix_generator.coverage" NAME="Unittests for ex3_test.TestEx3.test_random_matrix_generator Coverage Results" MODIFIED="1537560932083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/m_Labs$ex3.coverage" NAME="ex3 Coverage Results" MODIFIED="1539815076117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/var_3" />
     <SUITE FILE_PATH="coverage/m_Labs$Unittests_in_ex2_test_py.coverage" NAME="Unittests in ex2_test.py Coverage Results" MODIFIED="1537537221643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_lub" />
-    <SUITE FILE_PATH="coverage/m_Labs$1st_ex.coverage" NAME="1st_ex Coverage Results" MODIFIED="1536859431387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/m_Labs$ex1.coverage" NAME="ex1 Coverage Results" MODIFIED="1537535615685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_lub" />
-    <SUITE FILE_PATH="coverage/m_Labs$Unittests_in_ex4_test_py.coverage" NAME="Unittests in ex4_test.py Coverage Results" MODIFIED="1537558337222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_lub" />
-    <SUITE FILE_PATH="coverage/m_Labs$Unittests_for_ex2_test_TestEx1_test_ex2.coverage" NAME="Unittests for ex2_test.TestEx1.test_ex2 Coverage Results" MODIFIED="1537537523953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_lub" />
-    <SUITE FILE_PATH="coverage/m_Labs$ex4.coverage" NAME="ex4 Coverage Results" MODIFIED="1537557906548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_lub" />
+    <SUITE FILE_PATH="coverage/m_Labs$ex1__1_.coverage" NAME="ex1 (1) Coverage Results" MODIFIED="1538822130497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/m_Labs$Unittests_for_ex5_test_TestEx5_test_convert_to_float.coverage" NAME="Unittests for ex5_test.TestEx5.test_convert_to_float Coverage Results" MODIFIED="1537792260139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/m_Labs$Unittests_for_ex4_test_TestEx4_test_text_analysis.coverage" NAME="Unittests for ex4_test.TestEx4.test_text_analysis Coverage Results" MODIFIED="1537558256891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_lub" />
+    <SUITE FILE_PATH="coverage/m_Labs$ex2__1_.coverage" NAME="ex2 (1) Coverage Results" MODIFIED="1539888634065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab_2" />
+    <SUITE FILE_PATH="coverage/m_Labs$Unittests_for_ex5_test_TestEx4_test_convert_to_float.coverage" NAME="Unittests for ex5_test.TestEx4.test_convert_to_float Coverage Results" MODIFIED="1537792158936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/m_Labs$Unittests_in_ex1_test_py.coverage" NAME="Unittests in ex1_test.py Coverage Results" MODIFIED="1537535672955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_lub" />
+    <SUITE FILE_PATH="coverage/m_Labs$Unittests_for_ex2_test_TestEx1_test_is_prime.coverage" NAME="Unittests for ex2_test.TestEx1.test_is_prime Coverage Results" MODIFIED="1537553014130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_lub" />
+    <SUITE FILE_PATH="coverage/m_Labs$ex3__1_.coverage" NAME="ex3 (1) Coverage Results" MODIFIED="1539890014784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab_2" />
+    <SUITE FILE_PATH="coverage/m_Labs$ex1__2_.coverage" NAME="ex1 (2) Coverage Results" MODIFIED="1539820468429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/var_3" />
     <SUITE FILE_PATH="coverage/m_Labs$3d_ex.coverage" NAME="3d_ex Coverage Results" MODIFIED="1536832566212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/m_Labs$ex2.coverage" NAME="ex2 Coverage Results" MODIFIED="1539817070949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/var_3" />
+    <SUITE FILE_PATH="coverage/m_Labs$Unittests_in_ex5_test_py.coverage" NAME="Unittests in ex5_test.py Coverage Results" MODIFIED="1537795645113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/m_Labs$ex5.coverage" NAME="ex5 Coverage Results" MODIFIED="1539894793743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab_2" />
+    <SUITE FILE_PATH="coverage/m_Labs$Unittests_for_ex2_test_TestEx2.coverage" NAME="Unittests for ex2_test.TestEx2 Coverage Results" MODIFIED="1537560922001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/m_Labs$4.coverage" NAME="4 Coverage Results" MODIFIED="1538822593694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/m_Labs$Unittests_for_ex4_test_TestEx4_test_update_output_log.coverage" NAME="Unittests for ex4_test.TestEx4.test_update_output_log Coverage Results" MODIFIED="1537560938526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/m_Labs$ex4.coverage" NAME="ex4 Coverage Results" MODIFIED="1539893685638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab_2" />
+    <SUITE FILE_PATH="coverage/m_Labs$Unittests_for_ex5_test_TestEx5.coverage" NAME="Unittests for ex5_test.TestEx5 Coverage Results" MODIFIED="1537796211019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/m_Labs$ex1.coverage" NAME="ex1 Coverage Results" MODIFIED="1539893318422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab_2" />
+    <SUITE FILE_PATH="coverage/m_Labs$Unittests_for_ex2_test_TestEx1.coverage" NAME="Unittests for ex2_test.TestEx1 Coverage Results" MODIFIED="1537536303042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_lub" />
+    <SUITE FILE_PATH="coverage/m_Labs$Unittests_in_ex4_test_py.coverage" NAME="Unittests in ex4_test.py Coverage Results" MODIFIED="1537560944707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/m_Labs$Unittests_for_ex2_test_TestEx1_test_ex2.coverage" NAME="Unittests for ex2_test.TestEx1.test_ex2 Coverage Results" MODIFIED="1537537523953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_lub" />
+    <SUITE FILE_PATH="coverage/m_Labs$Unittests_for_ex2_test_TestEx2_test_is_prime.coverage" NAME="Unittests for ex2_test.TestEx2.test_is_prime Coverage Results" MODIFIED="1537560911750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/m_Labs$5_ex.coverage" NAME="5_ex Coverage Results" MODIFIED="1537531126496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/m_Labs$test.coverage" NAME="test Coverage Results" MODIFIED="1539070386833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab_2" />
+    <SUITE FILE_PATH="coverage/m_Labs$1st_ex__1_.coverage" NAME="1st_ex (1) Coverage Results" MODIFIED="1536859443746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/m_Labs$Unittests_for_ex5_test_TestEx5_test_sub.coverage" NAME="Unittests for ex5_test.TestEx5.test_sub Coverage Results" MODIFIED="1537796206967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/m_Labs$1ex.coverage" NAME="1ex Coverage Results" MODIFIED="1537702652410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/George_Martyniuk_5var" />
+    <SUITE FILE_PATH="coverage/m_Labs$Unittests_for_ex5_test_TestEx5_test_convert_from_float.coverage" NAME="Unittests for ex5_test.TestEx5.test_convert_from_float Coverage Results" MODIFIED="1537793867717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/m_Labs$Unittests_in_ex3_test_py.coverage" NAME="Unittests in ex3_test.py Coverage Results" MODIFIED="1537554482496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_lub" />
+    <SUITE FILE_PATH="coverage/m_Labs$Unittests_for_ex2_test_TestEx2_test_ex2.coverage" NAME="Unittests for ex2_test.TestEx2.test_ex2 Coverage Results" MODIFIED="1537560916618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/m_Labs$Unittests_for_ex1_test_TestEx1_test_eps1.coverage" NAME="Unittests for ex1_test.TestEx1.test_eps1 Coverage Results" MODIFIED="1537560886908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/m_Labs$1st_ex.coverage" NAME="1st_ex Coverage Results" MODIFIED="1536859431387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/m_Labs$Unittests_for_ex2_test_TestEx2_test_first_odd.coverage" NAME="Unittests for ex2_test.TestEx2.test_first_odd Coverage Results" MODIFIED="1537560891840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="931373411">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -50,143 +96,86 @@
           <entry key="MD" value="1" />
           <entry key="md" value="2" />
           <entry key="pstat" value="1" />
-          <entry key="py" value="33" />
-          <entry key="txt" value="8" />
+          <entry key="py" value="68" />
+          <entry key="txt" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="3" />
-          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="PLAIN_TEXT" value="10" />
           <entry key="Profiler Session" value="1" />
-          <entry key="Python" value="33" />
+          <entry key="Python" value="68" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="26" />
+          <entry key="dummy" value="28" />
           <entry key="md" value="281" />
-          <entry key="py" value="6694" />
-          <entry key="txt" value="25" />
+          <entry key="py" value="11323" />
+          <entry key="txt" value="39" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="281" />
-          <entry key="PLAIN_TEXT" value="51" />
-          <entry key="Python" value="6694" />
+          <entry key="PLAIN_TEXT" value="67" />
+          <entry key="Python" value="11323" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex1.py">
+      <file leaf-file-name="ex1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab_2/ex1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="9" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="18" />
+            <state relative-caret-position="933">
+              <caret line="162" column="43" selection-start-line="162" selection-start-column="43" selection-end-line="162" selection-end-column="43" />
               <folding>
-                <marker date="1537535615668" expanded="true" signature="134:139" ph="..." />
+                <element signature="e#49#60#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex2.py">
+      <file leaf-file-name="ex4.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab_2/ex4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="4" column="15" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="51" />
+            <state relative-caret-position="522">
+              <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
               <folding>
-                <marker date="1537537502327" expanded="true" signature="400:405" ph="..." />
+                <element signature="e#50#68#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex2_test.py">
+      <file leaf-file-name="ex5.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab_2/ex5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="440">
+              <caret line="30" column="43" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
               <folding>
-                <element signature="e#55#95#0" expanded="true" />
+                <element signature="e#0#26#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex1_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-              <folding>
-                <element signature="e#55#74#0" expanded="true" />
-                <marker date="1537558814944" expanded="true" signature="126:128" ph="..." />
-              </folding>
-            </state>
-          </provider>
+      <file leaf-file-name="input.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab_2/input.csv">
+          <provider selected="true" editor-type-id="csv-text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex4.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="e#49#74#0" expanded="true" />
-                <marker date="1537557762419" expanded="true" signature="922:1058" ph="..." />
-                <marker date="1537557762419" expanded="true" signature="1057:1058" ph="..." />
-              </folding>
-            </state>
-          </provider>
+      <file leaf-file-name="output.csv" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lab_2/output.csv">
+          <provider selected="true" editor-type-id="csv-text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_logs/output_log_test.txt">
+      <file leaf-file-name="dop_task.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab_2/dop_task.py">
           <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex4_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="870">
-              <caret line="30" column="58" lean-forward="true" selection-start-line="30" selection-start-column="58" selection-end-line="30" selection-end-column="58" />
-              <folding>
-                <element signature="e#55#112#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="377">
-                <caret line="43" column="3" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_logs/output_log.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-824" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_logs/log.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-            </state>
-          </provider>
         </entry>
       </file>
     </leaf>
@@ -198,16 +187,17 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>3</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test_logs/log.txt" />
-        <option value="$PROJECT_DIR$/3d_ex.py" />
-        <option value="$PROJECT_DIR$/test_logs/output_log.txt" />
-        <option value="$PROJECT_DIR$/4d_ex.py" />
         <option value="$PROJECT_DIR$/2d_ex.py" />
         <option value="$PROJECT_DIR$/1st_ex.py" />
         <option value="$PROJECT_DIR$/tools.py" />
@@ -231,7 +221,34 @@
         <option value="$PROJECT_DIR$/First_lub/test_logs/output_log_test.txt" />
         <option value="$PROJECT_DIR$/First_lub/ex4_test.py" />
         <option value="$PROJECT_DIR$/ex4_test.py" />
+        <option value="$PROJECT_DIR$/George_Martyniuk_5var/1ex.py" />
+        <option value="$PROJECT_DIR$/George_Martyniuk_5var/2ex.py" />
+        <option value="$PROJECT_DIR$/George_Martyniuk_5var/input.txt" />
+        <option value="$PROJECT_DIR$/George_Martyniuk_5var/ex4.py" />
+        <option value="$PROJECT_DIR$/George_Martyniuk_5var/ex2.py" />
+        <option value="$PROJECT_DIR$/George_Martyniuk_5var/ex1.py" />
+        <option value="$PROJECT_DIR$/George_Martyniuk_5var/ex3.py" />
+        <option value="$PROJECT_DIR$/ex5_test.py" />
+        <option value="$PROJECT_DIR$/ex5.py" />
+        <option value="$PROJECT_DIR$/ex4.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/ex2.py" />
+        <option value="$PROJECT_DIR$/ex1.py" />
+        <option value="$PROJECT_DIR$/4.py" />
+        <option value="$PROJECT_DIR$/3.py" />
+        <option value="$PROJECT_DIR$/lab_2/test.py" />
+        <option value="$PROJECT_DIR$/var_3/input.csv" />
+        <option value="$PROJECT_DIR$/var_3/ex5.py" />
+        <option value="$PROJECT_DIR$/var_3/ex4.py" />
+        <option value="$PROJECT_DIR$/var_3/ex3.py" />
+        <option value="$PROJECT_DIR$/var_3/ex1.py" />
+        <option value="$PROJECT_DIR$/var_3/ex2.py" />
+        <option value="$PROJECT_DIR$/lab_2/dop_task.py" />
+        <option value="$PROJECT_DIR$/lab_2/ex2.py" />
+        <option value="$PROJECT_DIR$/lab_2/ex3.py" />
+        <option value="$PROJECT_DIR$/lab_2/ex4.py" />
+        <option value="$PROJECT_DIR$/lab_2/ex1.py" />
+        <option value="$PROJECT_DIR$/lab_2/ex5.py" />
       </list>
     </option>
   </component>
@@ -240,6 +257,9 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="20" />
@@ -253,7 +273,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -263,25 +282,43 @@
             </path>
             <path>
               <item name="m_Labs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="m_Labs" type="462c0819:PsiDirectoryNode" />
+              <item name="lab_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="m_Labs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="m_Labs" type="462c0819:PsiDirectoryNode" />
+              <item name="lab_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="m_Labs" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="ex1&#9;FILE&#9;file:///home/zegs/practise/m_Labs/ex1.py" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../George_Martyniuk_lub2_3var" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lab_1" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/First_lub" />
       <recent name="$PROJECT_DIR$/1st_lub" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/var_3" />
+      <recent name="$PROJECT_DIR$/lab_2" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -296,7 +333,64 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in ex4_test.py">
+  <component name="RunManager" selected="Python.ex5">
+    <configuration name="ex1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="m_Labs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab_2/ex1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="ex2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="m_Labs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab_2/ex2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="ex3 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="m_Labs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab_2/ex3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="ex4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="m_Labs" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -305,94 +399,50 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/First_lub" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab_2/ex4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
-    <configuration name="Unittests for ex4_test.TestEx4" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="ex5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="m_Labs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/First_lub" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;ex4_test.TestEx4&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests for ex4_test.TestEx4.test_text_analysis" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="m_Labs" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/First_lub" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;ex4_test.TestEx4.test_text_analysis&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests for ex4_test.TestEx4.test_update_output_log" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="m_Labs" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/First_lub" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;ex4_test.TestEx4.test_update_output_log&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests in ex4_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="m_Labs" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/First_lub" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/ex4_test.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab_2/ex5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
+      <item itemvalue="Python.ex1" />
+      <item itemvalue="Python.ex2 (1)" />
+      <item itemvalue="Python.ex3 (1)" />
       <item itemvalue="Python.ex4" />
-      <item itemvalue="Python tests.Unittests in ex4_test.py" />
-      <item itemvalue="Python tests.Unittests for ex4_test.TestEx4.test_text_analysis" />
-      <item itemvalue="Python tests.Unittests for ex4_test.TestEx4" />
-      <item itemvalue="Python tests.Unittests for ex4_test.TestEx4.test_update_output_log" />
+      <item itemvalue="Python.ex5" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests in ex4_test.py" />
-        <item itemvalue="Python tests.Unittests for ex4_test.TestEx4.test_update_output_log" />
-        <item itemvalue="Python tests.Unittests for ex4_test.TestEx4.test_text_analysis" />
-        <item itemvalue="Python tests.Unittests for ex4_test.TestEx4" />
+        <item itemvalue="Python.ex5" />
         <item itemvalue="Python.ex4" />
+        <item itemvalue="Python.ex1" />
+        <item itemvalue="Python.ex3 (1)" />
+        <item itemvalue="Python.ex2 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -410,65 +460,66 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_ex4_test_TestEx4_test_update_output_log - 2018.09.21 at 22h 31m 04s.xml">
-      <configuration name="Unittests for ex4_test.TestEx4.test_update_output_log" configurationId="tests" />
+    <history-entry file="Unittests_in_ex5_test_py - 2018.09.24 at 16h 09m 58s.xml">
+      <configuration name="Unittests in ex5_test.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_ex4_test_TestEx4_test_update_output_log - 2018.09.21 at 22h 31m 26s.xml">
-      <configuration name="Unittests for ex4_test.TestEx4.test_update_output_log" configurationId="tests" />
+    <history-entry file="Unittests_in_ex5_test_py - 2018.09.24 at 16h 10m 49s.xml">
+      <configuration name="Unittests in ex5_test.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_ex4_test_TestEx4_test_update_output_log - 2018.09.21 at 22h 31m 34s.xml">
-      <configuration name="Unittests for ex4_test.TestEx4.test_update_output_log" configurationId="tests" />
+    <history-entry file="Unittests_in_ex5_test_py - 2018.09.24 at 16h 11m 01s.xml">
+      <configuration name="Unittests in ex5_test.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_ex4_test_TestEx4_test_update_output_log - 2018.09.21 at 22h 31m 44s.xml">
-      <configuration name="Unittests for ex4_test.TestEx4.test_update_output_log" configurationId="tests" />
+    <history-entry file="Unittests_in_ex5_test_py - 2018.09.24 at 16h 12m 44s.xml">
+      <configuration name="Unittests in ex5_test.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_ex4_test_py - 2018.09.21 at 22h 31m 47s.xml">
-      <configuration name="Unittests in ex4_test.py" configurationId="tests" />
+    <history-entry file="Unittests_in_ex5_test_py - 2018.09.24 at 16h 24m 46s.xml">
+      <configuration name="Unittests in ex5_test.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_ex4_test_TestEx4_test_update_output_log - 2018.09.21 at 22h 31m 52s.xml">
-      <configuration name="Unittests for ex4_test.TestEx4.test_update_output_log" configurationId="tests" />
+    <history-entry file="Unittests_in_ex5_test_py - 2018.09.24 at 16h 26m 31s.xml">
+      <configuration name="Unittests in ex5_test.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_ex4_test_py - 2018.09.21 at 22h 31m 55s.xml">
-      <configuration name="Unittests in ex4_test.py" configurationId="tests" />
+    <history-entry file="Unittests_in_ex5_test_py - 2018.09.24 at 16h 26m 54s.xml">
+      <configuration name="Unittests in ex5_test.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_ex4_test_TestEx4_test_update_output_log - 2018.09.21 at 22h 31m 59s.xml">
-      <configuration name="Unittests for ex4_test.TestEx4.test_update_output_log" configurationId="tests" />
+    <history-entry file="Unittests_in_ex5_test_py - 2018.09.24 at 16h 27m 25s.xml">
+      <configuration name="Unittests in ex5_test.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_ex4_test_py - 2018.09.21 at 22h 32m 02s.xml">
-      <configuration name="Unittests in ex4_test.py" configurationId="tests" />
+    <history-entry file="Unittests_for_ex5_test_TestEx5_test_sub - 2018.09.24 at 16h 36m 47s.xml">
+      <configuration name="Unittests for ex5_test.TestEx5.test_sub" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_ex4_test_py - 2018.09.21 at 22h 32m 17s.xml">
-      <configuration name="Unittests in ex4_test.py" configurationId="tests" />
+    <history-entry file="Unittests_for_ex5_test_TestEx5 - 2018.09.24 at 16h 36m 51s.xml">
+      <configuration name="Unittests for ex5_test.TestEx5" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="134" y="35" width="3066" height="1765" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14942914" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50032616" side_tool="true" weight="0.29055375" />
+      <window_info anchor="right" x="0" y="0" width="716" height="1565" id="Documentation" order="8" side_tool="true" weight="0.39530334" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3299933" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32899022" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49967384" visible="true" weight="0.44690552" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32899022" />
+      <window_info content_ui="combo" x="131" y="311" width="490" height="1489" id="Project" order="0" visible="true" weight="0.15655577" />
+      <window_info anchor="right" id="R Packages" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="R Graphics" order="5" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3296417" />
+      <window_info anchor="right" id="SciView" order="4" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.41750166" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994656" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934853" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3299933" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32955304" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32955304" />
-      <window_info anchor="right" id="Coverage" order="0" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="4" />
-      <window_info anchor="right" id="R Graphics" order="5" />
-      <window_info anchor="right" id="R Packages" order="6" />
-      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -512,9 +563,38 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
+      <option name="time" value="1" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lab_1/ex4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab_1/ex5_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1537">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab_1/ex5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3422">
+          <caret line="118" selection-start-line="118" selection-end-line="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab_1/ex4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file:///usr/lib/python3.6/operator.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
@@ -522,154 +602,216 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tools.py">
+    <entry file="file://$PROJECT_DIR$/lab_1/tools.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
           <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ex5_test.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="9" column="66" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="66" />
-          <folding>
-            <marker date="1537531126478" expanded="true" signature="102:107" ph="..." />
-            <marker date="1537531126478" expanded="true" signature="1494:1500" ph="..." />
-            <marker date="1537531126478" expanded="true" signature="1589:1597" ph="..." />
-            <marker date="1537531126478" expanded="true" signature="3152:3157" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-393724138/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="2952" column="8" selection-start-line="2952" selection-start-column="8" selection-end-line="2952" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/__init__.py" />
     <entry file="file:///usr/lib/python3.6/unittest/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1079" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ex3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-          <folding>
-            <marker date="1537554278437" expanded="true" signature="207:208" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex3_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="e#55#100#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_logs/log_for_test.txt">
+    <entry file="file://$PROJECT_DIR$/lab_1/test_logs/log_for_test.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_logs/log.txt">
+    <entry file="file://$PROJECT_DIR$/lab_1/test_logs/log.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
           <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_logs/output_log.txt">
+    <entry file="file://$PROJECT_DIR$/lab_1/test_logs/output_log.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-824" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_logs/output_log_test.txt">
+    <entry file="file://$PROJECT_DIR$/lab_1/test_logs/output_log_test.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ex4.py">
+    <entry file="file://$PROJECT_DIR$/lab_1/ex3_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#49#74#0" expanded="true" />
-            <marker date="1537557762419" expanded="true" signature="922:1058" ph="..." />
-            <marker date="1537557762419" expanded="true" signature="1057:1058" ph="..." />
-          </folding>
+        <state relative-caret-position="522">
+          <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ex4_test.py">
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-393724138/math.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="870">
-          <caret line="30" column="58" lean-forward="true" selection-start-line="30" selection-start-column="58" selection-end-line="30" selection-end-column="58" />
-          <folding>
-            <element signature="e#55#112#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="276">
+          <caret line="156" column="4" selection-start-line="156" selection-start-column="4" selection-end-line="156" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ex1.py">
+    <entry file="file://$PROJECT_DIR$/lab_1/ex2_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="20" column="6" lean-forward="true" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab_1/ex3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" selection-start-line="2" selection-end-line="33" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab_1/ex1_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/George_Martyniuk_5var/ex1.py" />
+    <entry file="file://$PROJECT_DIR$/George_Martyniuk_5var/input.txt" />
+    <entry file="file://$PROJECT_DIR$/lab_1/ex2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/George_Martyniuk_5var/ex3.py" />
+    <entry file="file://$PROJECT_DIR$/lab_1/ex4_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="928">
+          <caret line="33" column="19" lean-forward="true" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-393724138/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="3153" column="31" selection-start-line="3153" selection-start-column="31" selection-end-line="3153" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab_1/ex1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.6/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="823" column="8" selection-start-line="823" selection-start-column="8" selection-end-line="823" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/George_Martyniuk_5var/ex2.py" />
+    <entry file="file://$PROJECT_DIR$/George_Martyniuk_5var/ex4.py" />
+    <entry file="file://$PROJECT_DIR$/lab_1/ex5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3422">
+          <caret line="118" selection-start-line="118" selection-end-line="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab_1/ex4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab_1/ex5_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
-          <caret line="9" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="18" />
-          <folding>
-            <marker date="1537535615668" expanded="true" signature="134:139" ph="..." />
-          </folding>
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ex1_test.py">
+    <entry file="file://$PROJECT_DIR$/lab_1/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="e#55#74#0" expanded="true" />
-            <marker date="1537558814944" expanded="true" signature="126:128" ph="..." />
-          </folding>
+        <state relative-caret-position="-90">
+          <caret line="11" column="96" selection-start-line="11" selection-start-column="96" selection-end-line="11" selection-end-column="96" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ex2.py">
+    <entry file="file://$PROJECT_DIR$/ex1.py" />
+    <entry file="file://$PROJECT_DIR$/ex2.py" />
+    <entry file="file://$PROJECT_DIR$/3.py" />
+    <entry file="file://$PROJECT_DIR$/4.py" />
+    <entry file="file://$PROJECT_DIR$/lab_2/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" column="15" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="51" />
-          <folding>
-            <marker date="1537537502327" expanded="true" signature="400:405" ph="..." />
-          </folding>
+        <state>
+          <caret column="41" selection-start-column="41" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ex2_test.py">
+    <entry file="file://$PROJECT_DIR$/var_3/input.csv" />
+    <entry file="file://$PROJECT_DIR$/var_3/output.csv" />
+    <entry file="file://$PROJECT_DIR$/var_3/ex3.py" />
+    <entry file="file://$PROJECT_DIR$/var_3/ex5.py" />
+    <entry file="file://$PROJECT_DIR$/var_3/ex4.py" />
+    <entry file="file://$PROJECT_DIR$/var_3/ex1.py" />
+    <entry file="file://$PROJECT_DIR$/var_3/ex2.py" />
+    <entry file="file://$PROJECT_DIR$/lab_2/ex2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="319">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
           <folding>
-            <element signature="e#55#95#0" expanded="true" />
+            <element signature="e#50#68#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="377">
-            <caret line="43" column="3" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/lab_2/ex3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="7" selection-end-column="32" />
+          <folding>
+            <element signature="e#50#68#0" expanded="true" />
+          </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab_2/ex1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="933">
+          <caret line="162" column="43" selection-start-line="162" selection-start-column="43" selection-end-line="162" selection-end-column="43" />
+          <folding>
+            <element signature="e#49#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab_2/dop_task.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab_2/ex4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+          <folding>
+            <element signature="e#50#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab_2/ex5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="30" column="43" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab_2/input.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab_2/output.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
   </component>
 </project>

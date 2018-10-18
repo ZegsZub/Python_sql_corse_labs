@@ -1,7 +1,7 @@
 # lab №1 ex. 2(test) | Var 9 Sergey Zubrilin 9/21/18
 
 
-from ex2 import first_odd, is_prime, ex2
+from lab_1.ex2 import first_odd, is_prime, ex2
 import unittest
 
 

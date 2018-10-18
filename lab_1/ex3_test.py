@@ -1,7 +1,7 @@
 # lab №1 ex. 3(test) | Var 9 Sergey Zubrilin 9/21/18
 
 
-from ex3 import random_matrix, ex_3
+from lab_1.ex3 import random_matrix, ex_3
 import unittest
 
 

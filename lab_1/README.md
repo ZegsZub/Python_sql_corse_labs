@@ -9,7 +9,7 @@
 ````
 **Код решения: [GitHub page](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/ex1.py)**
 
-**Код тестировки: [GitHub page](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/ex2_test.py)**
+**Код тестировки: [GitHub page](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/ex1_test.py)**
 ###
 >Задание № 2:
 ````

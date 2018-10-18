@@ -1,7 +1,7 @@
 # lab №1 ex. 4(test) | Var 9 Sergey Zubrilin 9/21/18
 
 
-from ex4 import text_analysis, update_output_log
+from lab_1.ex4 import text_analysis, update_output_log
 import unittest
 
 

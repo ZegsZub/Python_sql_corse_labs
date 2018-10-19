@@ -1,11 +1,9 @@
-# lab №2 ex. 1 | Var 4 Sergey Zubrilin 10/3/18
+# lab №3 ex. 2 | Var 4 Sergey Zubrilin 10/19/18
 
 
 import numpy as np
 from matplotlib import pyplot as plt
 
-
-# в одно окно на одни оси
 fi = np.linspace(0, 2*np.pi, 400)
 fig = plt.figure()
 fig.set_tight_layout(False)

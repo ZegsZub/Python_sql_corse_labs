@@ -65,7 +65,7 @@ class MatrixTool:
         :param j: int
         :return: numpy.ndarray
         """
-        return np.array([[np.random.randint(start, stop) for _ in range(i)] for _ in range(j)])
+        return np.array(np.random.randint(start, stop, size=(i, j)))
 
     def sort_by_max_range(self):
         """
@@ -73,8 +73,7 @@ class MatrixTool:
            квадрата."
         подсчитывает ростояние от точки до начала координат и сотрирует по возрастанию (по этому расстоянию)
         """
-        for i in range(len(self.matrix)):
-            self.matrix[i][2] = math.sqrt(self.matrix[i][1]**2 + self.matrix[i][0]**2)
+        self.matrix['O'] = (self.matrix['X']**2 + self.matrix['Y']**2)**(1/2)
         self.matrix = np.sort(self.matrix, order='O')
 
     def nearest_to_center(self):
@@ -85,36 +84,30 @@ class MatrixTool:
         self.sort_by_max_range()
         return self.matrix[0]
 
-    def sort_by_coordinate_quarter(self):
-        """
-            Определяет координатнуй четверть входных точек.
-        """
-        for i in range(len(self.matrix)):
-            if self.matrix[i][0] > 0 and self.matrix[i][1] > 0:
-                self.matrix[i][3] = 1
-            elif self.matrix[i][0] < 0 < self.matrix[i][1]:
-                self.matrix[i][3] = 2
-            elif self.matrix[i][0] < 0 and self.matrix[i][1] < 0:
-                self.matrix[i][3] = 3
-            elif self.matrix[i][0] > 0 > self.matrix[i][1]:
-                self.matrix[i][3] = 4
-            else:
-                self.matrix[i][3] = 0
+    # def sort_by_coordinate_quarter(self):
+    #     """
+    #         Определяет координатнуй четверть входных точек.
+    #     """
+    #     for i in range(len(self.matrix)):
+    #         if self.matrix[i][0] > 0 and self.matrix[i][1] > 0:
+    #             self.matrix[i][3] = 1
+    #         elif self.matrix[i][0] < 0 < self.matrix[i][1]:
+    #             self.matrix[i][3] = 2
+    #         elif self.matrix[i][0] < 0 and self.matrix[i][1] < 0:
+    #             self.matrix[i][3] = 3
+    #         elif self.matrix[i][0] > 0 > self.matrix[i][1]:
+    #             self.matrix[i][3] = 4
+    #         else:
+    #             self.matrix[i][3] = 0
 
     def coordinate_quarter(self, quarter=1):
         """
             с) "Профильтровать массив, оставив только точки из первого квадранта.
         """
-        res = np.array(list(filter(lambda x: x[3] == quarter, self.matrix)))
-        # думал написать что-то вроде "if res: return res" но не вышло, так как в numpy подобная структура для масивов
-        # состоящих больше чем из двух элементов неопределена :
-        # {https://stackoverflow.com/questions/10062954/valueerror-the-truth-value-of-an-array-with-more-than-one-element-is-ambiguous}
-        # советуют использовать метод .all() или .any() но они не работают с "structured arrays"(массивами записей)
-        # так что я не придумал ничего лучше чем это ->
-        try:
-            res[0]
+        res = self.matrix[(self.matrix['X'] > 0) & (self.matrix['Y'] > 0)]
+        if len(res) > 0:
             return res
-        except IndexError:
+        else:
             return f'Not point in {quarter} coordinate quarter'
 
     def range_matrix(self, metric=Metric.manhattan):
@@ -140,30 +133,13 @@ class MatrixTool:
         :return: ближайшие точки по манхэттанской метрике
         """
         if mod == 'nearest':
-            count = 0
-            l = len(self.matrix)
-            min = float('inf')
-            min_range_coord_index = []
-            for i in range(count, l):
-                count += 1
-                for j in range(count, l):
-                    if range_matrix[i, j] < min:
-                        min_range_coord_index = [i, j]
-                        min = range_matrix[i, j]
-            return self.matrix[min_range_coord_index]
+
+            ind = np.unravel_index(np.argmin(range_matrix, axis=None), range_matrix.shape)
+            return [self.matrix[:][ind[0]], self.matrix[:][ind[1]]]
 
         if mod == 'farthest':
-            count = 0
-            l = len(self.matrix)
-            max = 0
-            max_range_coord_index = []
-            for i in range(count, l):
-                count += 1
-                for j in range(count, l):
-                    if range_matrix[i, j] > max:
-                        max_range_coord_index = [i, j]
-                        max = range_matrix[i, j]
-            return self.matrix[max_range_coord_index]
+            ind = np.unravel_index(np.argmax(range_matrix, axis=None), range_matrix.shape)
+            return [self.matrix[:][ind[0]], self.matrix[:][ind[1]]]
 
 
 def test_ex1():
@@ -174,9 +150,6 @@ def test_ex1():
     print(res.nearest_to_center())
     print('b)----X------------Y-------------O--------quarter-------------')
     res.sort_by_max_range()
-    print(res.matrix)
-    print('_)----X------------Y-------------O--------quarter-------------')
-    res.sort_by_coordinate_quarter()
     print(res.matrix)
     print('c)-----------------first_coordinate_quarter_points-------------')
     print(res.coordinate_quarter())

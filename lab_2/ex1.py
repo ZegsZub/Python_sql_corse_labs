@@ -80,7 +80,7 @@ class MatrixTool:
     def nearest_to_center(self):
         """
         a) "Найти точку, ближайшую к центру квадрата."
-        :return: координаты точки ближайшей к центру.
+        :return: tuple.
         """
         self.sort_by_max_range()
         return self.matrix[0]

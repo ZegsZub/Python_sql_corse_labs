@@ -1,4 +1,4 @@
-# lab №2 ex. 1 | Var 4 Sergey Zubrilin 10/3/18
+# lab №3 ex. 1 | Var 10 Sergey Zubrilin 10/19/18
 
 
 import numpy as np

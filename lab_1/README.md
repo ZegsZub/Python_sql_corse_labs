@@ -59,7 +59,7 @@
         a. сложения + __add__
         b. вычитания - __sub__
 ````
-**Код решения: [GitHub page](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/ex5.py)**
+**Код решения: [GitHub page](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/lab_1/ex5.py)**
 
-**Код тестировки: [GitHub page](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/ex5_test.py)**
+**Код тестировки: [GitHub page](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/lab_1/ex5_test.py)**
 

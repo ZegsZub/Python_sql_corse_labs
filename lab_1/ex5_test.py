@@ -38,6 +38,30 @@ class TestEx5(unittest.TestCase):
         self.assertFalse(fl != fl1)
         self.assertTrue(fl != fl2)
 
+    def test_ge(self):
+        """проверка операции 'больше или равно'"""
+
+        fl = MyFloat('-', 12345, 17)
+        fl1 = MyFloat('-', 12345, 19)
+        fl2 = MyFloat('-', 0, 15)
+        fl3 = MyFloat('-', 0, 15)
+
+        self.assertFalse(fl >= fl1)
+        self.assertTrue(fl >= fl2)
+        self.assertTrue(fl3 >= fl2)
+
+    def test_gе(self):
+        """проверка операции 'больше'"""
+
+        fl = MyFloat('-', 12345, 17)
+        fl1 = MyFloat('-', 12345, 19)
+        fl2 = MyFloat('-', 0, 15)
+        fl3 = MyFloat('-', 0, 15)
+
+        self.assertFalse(fl > fl1)
+        self.assertTrue(fl > fl2)
+        self.assertFalse(fl3 > fl2)
+
 
 if __name__ == '__main__':
     unittest.main()

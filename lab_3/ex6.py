@@ -6,7 +6,7 @@ from matplotlib import pyplot as plt
 
 
 def fun(x, y):
-    return (x**2+y**2-3)*np.sqrt(x**2+y**2)+np.sin(8*np.sqrt(x**2+y**2))*np.cos(6*np.arctan(y/np.fabs(x)))-3/4*\
+    return ((x**2+y**2)-3)*np.sqrt(x**2+y**2)+np.sin(8*np.sqrt(x**2+y**2))*np.cos(6*np.arctan(y/np.fabs(x)))-3/4*\
            (np.sin(5*np.arctan(y/np.fabs(x))-1))
 
 

@@ -14,15 +14,19 @@ class TestEx5(unittest.TestCase):
         fl1 = MyFloat('', 54321, 17)
         fl2 = MyFloat('-', 12345, 5)
         fl3 = MyFloat('-', 765432, 45)
+        fl4 = MyFloat('-', 765432, 1000)
+        fl5 = MyFloat('-', 0, 5)
 
         res1 = fl - fl1
         res2 = fl2 - fl
         res3 = fl3 - fl1
+        res4 = fl4 - fl5
 
         # тут я пересчитал на калькуляторе
         self.assertEqual(str(res1), '-0.66666E+17')
         self.assertEqual(str(res2), '0.12345E+17')
         self.assertEqual(str(res3), '-0.765432E+45')
+        self.assertEqual(str(res4), '-0.765432E+1000')
 
         self.assertEqual(res1.mantissa, 66666)
         self.assertEqual(res1.exponent, 17)

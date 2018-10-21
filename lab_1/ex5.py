@@ -96,4 +96,3 @@ class MyFloat:
         return MyFloat(res_sign, res_mantissa, res_exponent)
 
 
-

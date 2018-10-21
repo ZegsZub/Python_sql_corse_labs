@@ -50,7 +50,7 @@ class TestEx5(unittest.TestCase):
         self.assertTrue(fl >= fl2)
         self.assertTrue(fl3 >= fl2)
 
-    def test_gе(self):
+    def test_gt(self):
         """проверка операции 'больше'"""
 
         fl = MyFloat('-', 12345, 17)

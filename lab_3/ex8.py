@@ -4,7 +4,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-r = 2 # заданная в условии r
+r = 2   # заданная в условии r
 q = r/np.sqrt(2)
 
 fig = plt.figure(figsize=(10, 10))

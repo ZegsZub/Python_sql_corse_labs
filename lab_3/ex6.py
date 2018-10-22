@@ -19,8 +19,11 @@ ax.set_xlabel('X')
 ax.set_ylabel('Y')
 ax.set_title('ex6')
 ax.grid(color='b', alpha=0.5, linestyle='dashed', linewidth=0.5)
-fig.savefig('ex6_plot_a.png', dpi=200, bbox_inches='tight')
-plt.show()
+plt.xlim(-2, 2)
+plt.ylim(-2, 2)
+plt.gca().set_aspect('equal', adjustable='box')
+fig.savefig('ex6_plot_a.png', dpi=400, bbox_inches='tight')
 
-plt.imsave(arr=fun(X, Y), fname='ex6_plot_b.png', origin='lower', dpi=600)
-plt.show()
+
+plt.imsave(arr=fun(X, Y), fname='ex6_plot_b.png', origin='lower', dpi=1000, format='png')
+

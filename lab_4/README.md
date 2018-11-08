@@ -1,6 +1,6 @@
 # Отчет по четвертой лабораторной работе
 ## Сергей Зубрилин VAR 1
-### Task of Content
+### Task Content
 * [Задание № 1:](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/lab_4/README.md#задание--1)
 * [Задание № 2:](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/lab_4/README.md#задание--2)
 * [Задание № 3:](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/lab_4/README.md#задание--3)
@@ -15,6 +15,7 @@
 **Код решения: [GitHub page](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/lab_4/ex1.py)**
 
 **Диаграмма: [GitHub page](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/lab_4/ex1_bar.png)**
+![alt text](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/lab_4/ex1_bar.png)
 ###
 ### Задание № 2:
 ````
@@ -97,7 +98,8 @@ MathAnalysis3)
 [2008_part.csv](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/lab_4/2008_part.csv),
 [airports.csv](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/lab_4/airports.csv)**
 
-**Heatmap for ex3: [GitHub page](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/lab_4/heatmap.png)**
-
 **Код решения: [GitHub page](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/lab_4/ex4.py)**
+
+**Heatmap for ex3: [GitHub page](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/lab_4/heatmap.png)**
+![alt text](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/lab_4/heatmap.png)
 ###

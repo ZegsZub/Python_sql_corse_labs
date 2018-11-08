@@ -1,10 +1,10 @@
 # Отчет по четвертой лабораторной работе
 ## Сергей Зубрилин VAR 1
 ### Content of task
-* [Задание № 1:](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/lab_4/README.md###Задание-№-1:)
-* [Задание № 2:](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/lab_4/README.md###Задание-№-2:)
-* [Задание № 3:](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/lab_4/README.md###Задание-№-3:)
-* [Задание № 4:](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/lab_4/README.md###Задание-№-4:)
+* [Задание № 1:](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/lab_4/README.md#задание--1)
+* [Задание № 2:](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/lab_4/README.md#задание--2)
+* [Задание № 3:](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/lab_4/README.md#задание--3)
+* [Задание № 4:](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/lab_4/README.md#задание--4)
 ### Задание № 1:
 ````
 1. По данным из файла brexit_sth.csv построить столбцовую диаграмму

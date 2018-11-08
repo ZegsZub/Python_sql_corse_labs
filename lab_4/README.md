@@ -1,6 +1,6 @@
 # Отчет по четвертой лабораторной работе
 ## Сергей Зубрилин VAR 1
-### Content of task
+### Task of Content
 * [Задание № 1:](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/lab_4/README.md#задание--1)
 * [Задание № 2:](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/lab_4/README.md#задание--2)
 * [Задание № 3:](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/lab_4/README.md#задание--3)

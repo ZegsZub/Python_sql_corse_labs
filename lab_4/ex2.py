@@ -1,4 +1,4 @@
-# lab №4 ex. 2 | Var 1 Sergey Zubrilin 11/10/18
+# lab №4 ex. 4 | Var 1 Sergey Zubrilin 11/10/18
 
 
 import pandas as pd
@@ -32,8 +32,3 @@ df4.to_html('ex2_4_table.html')
 df5.to_html('ex2_5_table.html')
 df6.to_html('ex2_6_table.html')
 df7.to_html('ex2_7_table.html')
-
-# uniform_data = np.random.rand(10, 12)
-# ax = sns.heatmap(df)
-# plt.show()
-

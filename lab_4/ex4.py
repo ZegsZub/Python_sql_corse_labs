@@ -30,7 +30,7 @@ stranger = df1.iloc[indexes_of_strange[0]].FlightNum
 res = df1.loc[df1.FlightNum == stranger, ['Year', 'Month', 'DayofMonth', 'Distance']]
 res = res.set_index(['Year', 'Month', 'DayofMonth'])
 
-
+# визуализируем реультат
 fig = plt.figure()
 ax = sns.heatmap(res)
 plt.show()

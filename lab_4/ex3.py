@@ -15,19 +15,6 @@ df = pd.merge(df1, df2, on='Name', how='outer')
 df = pd.merge(df, df3, on='Name', how='outer')
 
 
-# проверял, есть ли в исходных таблицах конфликты
-# test = np.ndarray.tolist(df1.columns.values)
-# test1 = np.ndarray.tolist(df2.columns.values)
-# test2 = np.ndarray.tolist(df3.columns.values)
-# a = [_ for _ in test]
-# b = [_ for _ in test1]
-# c = [_ for _ in test2]
-#
-# for el in range(max(len(a), len(b))):
-#     if b[el] in a:
-#         print(b[el])
-#         print(el)
-
 pd.options.display.max_columns = 100
 pd.options.display.max_rows = 50
 

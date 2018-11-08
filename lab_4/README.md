@@ -100,6 +100,6 @@ MathAnalysis3)
 
 **Код решения: [GitHub page](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/lab_4/ex4.py)**
 
-**Heatmap for ex3: [GitHub page](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/lab_4/heatmap.png)**
-![alt text](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/lab_4/heatmap.png)
+**Heatmap for ex3: [GitHub page](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/lab_4/ex4_heatmap.png)**
+![alt text](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/lab_4/ex4_heatmap.png)
 ###

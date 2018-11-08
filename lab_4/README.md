@@ -1,6 +1,11 @@
 # Отчет по четвертой лабораторной работе
 ## Сергей Зубрилин VAR 1
->Задание № 1:
+### Content of task
+* [Задание № 1:](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/lab_4/README.md###Задание-№-1:)
+* [Задание № 2:](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/lab_4/README.md###Задание-№-2:)
+* [Задание № 3:](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/lab_4/README.md###Задание-№-3:)
+* [Задание № 4:](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/lab_4/README.md###Задание-№-4:)
+### Задание № 1:
 ````
 1. По данным из файла brexit_sth.csv построить столбцовую диаграмму
 количества людей, поддержавших brexit, относительно их возраста.
@@ -11,7 +16,7 @@
 
 **Диаграмма: [GitHub page](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/lab_4/ex1_bar.png)**
 ###
->Задание № 2:
+### Задание № 2:
 ````
 2. К данным из файла filter1.xlsx добавить столбец Surplas (излишки), который
 определяется следующим образом: по закону полагается 21 м 2 жилплощади на
@@ -50,7 +55,7 @@
 **Html table for 2.7: [GitHub page](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/lab_4/ex2_7_table.html)**
 
 ###
->Задание № 3:
+### Задание № 3:
 ````
 3. По данным из файлов students1.txt, students2.txt, students3.txt сделать вывод о
 линейной зависимости между успеваемостью студентов по следующим
@@ -68,7 +73,7 @@ MathAnalysis3)
 **Код решения: [GitHub page](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/lab_4/ex3.py)**
 
 ###
->Задание № 4:
+### Задание № 4:
 ````
 4. По данным из файлов 2008.csv.bz2 (или 2008_part.csv) и airports.csv,
 выполнить следующие задания:

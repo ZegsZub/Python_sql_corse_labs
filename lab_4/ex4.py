@@ -1,3 +1,6 @@
+# lab №4 ex. 2 | Var 1 Sergey Zubrilin 11/10/18
+
+
 import pandas as pd
 import seaborn as sns
 from matplotlib import pyplot as plt

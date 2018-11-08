@@ -1,3 +1,6 @@
+# lab №4 ex. 3 | Var 1 Sergey Zubrilin 11/10/18
+
+
 import pandas as pd
 
 

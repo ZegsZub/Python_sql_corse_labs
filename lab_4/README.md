@@ -92,5 +92,7 @@ MathAnalysis3)
 [2008_part.csv](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/lab_4/2008_part.csv),
 [airports.csv](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/lab_4/airports.csv)**
 
+**Heatmap for ex3: [GitHub page](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/lab_4/heatmap.png)**
+
 **Код решения: [GitHub page](https://github.com/ZegsZub/Python_sql_corse_labs/blob/master/lab_4/ex4.py)**
 ###

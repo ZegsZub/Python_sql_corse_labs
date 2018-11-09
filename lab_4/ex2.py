@@ -20,10 +20,14 @@ df2 = df.loc[(df.Privileges == "yes") & (df.Surplas == 0)]
 df3 = df.loc[(df.Meters > 100)]
 df4 = df.loc[(df.Year_of_registration > 1950) & (df.Year_of_registration < 1970)]
 df5 = df.loc[(df.Privileges == "yes") & (df.Year_of_registration > 1960)]
-df6 = df.loc[(df.Privileges == "yes") & (df.Year_of_registration < 1957) & (df.Surplas != 0) & (df.Meters > 100)]
-df7 = df.loc[(df.Privileges == "no") & (df.Year_of_registration > 1950) & (df.Year_of_registration < 1970)
-             & (df.Surplas > 50) & (df.Meters > 100)]
 
+df6_1 = df.loc[(df.Privileges == "yes") & (df.Surplas != 0)]
+df6_2 = df.loc[(df.Year_of_registration < 1957) & (df.Meters < 100)]
+df6 = df6_1.append(df6_2, ignore_index=True)
+
+df7_1 = df.loc[(df.Privileges == "no") & (df.Surplas > 50)]
+df7_2 = df.loc[(df.Year_of_registration > 1950) & (df.Year_of_registration < 1970) & (df.Meters > 100)]
+df7 = df7_1.append(df7_2, ignore_index=True)
 
 df1.to_html('ex2_1_table.html')
 df2.to_html('ex2_2_table.html')
